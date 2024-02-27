@@ -1,4 +1,4 @@
-I. Mô tả dự án
+I. Mô tả dự án /n
   Xây dựng website hỗ trợ các tính năng cần thiết cho việc bán giày, sử dụng Bootstrap, php, ajax. 
   Đối với khách hàng chưa đăng nhập hỗ trợ quy trình mua hàng như: tìm kiếm, xem thông tin sản phẩm, thêm sản phẩm vào giỏ hàng
   Đối với khách hàng đăng nhập hỗ trợ thanh toán và theo dõi được trạng thái của đơn hàng đã đặt. 
